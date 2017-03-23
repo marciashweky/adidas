@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+body {
+    background-color: black;
+}
+.hi {
+    color: #FFD700;
+    font-weight: bold;
+    font-size: 25px;
+}
+#hey {
+    color: #FFD700;
+    font-weight: bold;
+    font-size: 50px;
+}
+h2 {
+    color: #FFD700;
+    background-position: right top;
+}
+h1 {
+   color: #FFD700; 
+   font-family: 'Fascinate Inline', cursive;
+}
+h3 {
+    color: #FFD700;
+    opacity: 0.5;
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
+}
+h4 {
+    color: #FFD700;
+    font-family: 'Jim Nightshade', cursive;
+    background-image: url("http://demandware.edgesuite.net/aaqx_prd/on/demandware.static/-/Sites-adidas-US-Library/default/dw7fe84427/sizechart/adidas_logo_132x19.png");
+    height: 50%;
+    width: 50%;
+}
